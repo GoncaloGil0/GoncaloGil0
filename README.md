@@ -7,8 +7,7 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 ### Where can you find me:
 
 - [TryHackMe](https://tryhackme.com/p/SuperAdmin)
-- LinkedIn: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="goncalogil0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge">LinkdIn</a></div>
-              
+- [LinkedIn](https://pt.linkedin.com/in/goncalogil0?trk=profile-badge)
 - [GitLab](https://gitlab.com/GoncaloGil0) (not much to see yet )
 
 ### I’m currently studying:
