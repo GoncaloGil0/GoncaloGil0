@@ -8,7 +8,7 @@ Where can you find me:
 
 - [TryHackMe](https://tryhackme.com/p/SuperAdmin)
 - [LinkedIn](www.linkedin.com/in/goncalopedrogil)
-- [GitLab](https://gitlab.com/GoncaloGil0)
+- [GitLab](https://gitlab.com/GoncaloGil0) (not much to see yet )
 
 I’m currently studying:
 
