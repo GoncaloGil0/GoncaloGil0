@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<script src="https://tryhackme.com/badge/245904"></script>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGil0&layout=demo&theme=github_dark&langs_count=30)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=GoncaloGil0&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
