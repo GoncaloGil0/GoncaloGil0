@@ -10,7 +10,7 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 - [LinkedIn](https://pt.linkedin.com/in/goncalogil0?trk=profile-badge)
 - [GitLab](https://gitlab.com/GoncaloGil0) (not much to see yet )
 
-### I’m currently studying:
+### I’m currently studying: 
 
 - Docker
 - Blockchain
