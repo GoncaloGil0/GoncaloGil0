@@ -13,6 +13,9 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 <a href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gonçalo Gil | LinkedIn" width="32px"/></a>
 
 <a href="https://tryhackme.com/p/SuperAdmin"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/tryhackme.png" alt="Goncalo Gil | TryHackMe" width="32px"/></a>
+
+
+<a href="https://gitlab.com/GoncaloGil0"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/gitlab.png" alt="Goncalo Gil | GitLab" width="32px"/></a>
 </br>
 ### I’m currently studying: 
 
