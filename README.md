@@ -5,11 +5,6 @@ My name is Gonçalo and I am currently studying cybersecurity in university and 
 Furthermore, I have a great interest in pentesting and red team and developing my own tools for pentesting and recon, having already participated in some CTF competitions.
 
 ### Where can you find me:
-
-- [TryHackMe](https://tryhackme.com/p/SuperAdmin)     
-- [LinkedIn](https://pt.linkedin.com/in/goncalogil0?trk=profile-badge)
-- [GitLab](https://gitlab.com/GoncaloGil0) (not much to see yet )
-
 <a href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gonçalo Gil | LinkedIn" width="32px"/></a>
 
 <a href="https://tryhackme.com/p/SuperAdmin"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/tryhackme.png" alt="Goncalo Gil | TryHackMe" width="32px"/></a>
