@@ -6,10 +6,16 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 
 ### Where can you find me:
 
-- [TryHackMe](https://tryhackme.com/p/SuperAdmin)
+- [TryHackMe](https://tryhackme.com/p/SuperAdmin)     
 - [LinkedIn](https://pt.linkedin.com/in/goncalogil0?trk=profile-badge)
 - [GitLab](https://gitlab.com/GoncaloGil0) (not much to see yet )
 
+<a href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gonçalo Gil | LinkedIn" width="21px"/></a>
+
+<a href="https://tryhackme.com/p/SuperAdmin"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/images/tryhackme.png" alt="Goncalo Gil | TryHackMe" width="21px"/></a>
+
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
 ### I’m currently studying: 
 
 - Docker
