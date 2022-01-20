@@ -3,6 +3,11 @@
 Hi there, I'm <atarget="_blank" rel="noreferrer">Gonçalo</a> 👋
 </h3>
 
+
+<h2 align="center">
+I'm a Pentester/RedTeam and Blockchain researcher
+</h2> 
+
 I am currently studying cybersecurity in university and working on research into new and innovative technologies with the aim of creating safer systems and infrastructure.
 
 Furthermore, I have a great interest in pentesting and red team and developing my own tools for pentesting and recon, having already participated in some CTF competitions.
