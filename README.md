@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/world.jpeg" alt="my banner"></a>
+</p>
 
 <h3 align="center">
-Hi there, I'm <atarget="_blank" rel="noreferrer">Gonçalo</a> 👋
+Hi there, I'm Gonçalo</a> 👋
 </h3>
 
 
@@ -13,7 +16,7 @@ I am currently studying cybersecurity in university and working on research into
 Furthermore, I have a great interest in pentesting and red team and developing my own tools for pentesting and recon, having already participated in some CTF competitions.
 
 ## 🤝 Where can you find me:
-<a href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gonçalo Gil | LinkedIn" width="32px"/></a>
+<a href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/linkedin.svg" alt="Gonçalo Gil | LinkedIn" width="32px"/></a>
 
 <a href="https://tryhackme.com/p/SuperAdmin"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/tryhackme.png" alt="Goncalo Gil | TryHackMe" width="32px"/></a>
 
