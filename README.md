@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/world.jpeg" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm Gonçalo</a> 👋
 </h3>
