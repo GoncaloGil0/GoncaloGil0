@@ -31,6 +31,7 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/-Bash-orange?style=for-the-badge&logo=appveyor)
 ![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=appveyor)
+![Java](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=appveyor)
 
 ## 📈 My stats on GitHub: 
 
