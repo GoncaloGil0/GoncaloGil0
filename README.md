@@ -39,6 +39,5 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 
 ## 📈 My stats on GitHub: 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGil0&layout=compact&theme=react&langs_count=30)](https://github.com/GoncaloGil0/github-readme-stats) 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGil0&layout=compact&theme=react&langs_count=30&hide_border=true)
 ![My Stats](https://github-readme-stats.vercel.app/api?username=GoncaloGil0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true) 
