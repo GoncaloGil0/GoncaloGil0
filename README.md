@@ -26,6 +26,8 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 - Blockchain
 - Pentesting/RedTeam
 
+## 💼 Technical Skills
+
 ## 📈 My stats on GitHub: 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGil0&layout=compact&theme=github_dark&langs_count=30)](https://github.com/anuraghazra/github-readme-stats) 
