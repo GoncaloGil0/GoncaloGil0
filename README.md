@@ -22,8 +22,8 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 ## 🌱 I’m currently studying: 
 
 - Docker
-- Blockchain
-- Pentesting/RedTeam
+- Blockchain (NFTs and Smart Contracts)
+- Pentesting and Red Team
 
 ## 💼 Technical Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
