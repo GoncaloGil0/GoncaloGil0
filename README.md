@@ -22,7 +22,7 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 ## 🌱 I’m currently studying: 
 
 - Docker
-- Blockchain (NFTs and Smart Contracts)
+- Blockchain - NFTs and Smart Contracts
 - Pentesting and Red Team
 
 ## 💼 Technical Skills
@@ -31,6 +31,11 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 ![Bash](https://img.shields.io/badge/-Bash-orange?style=for-the-badge&logo=appveyor)
 ![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker)
 ![Java](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java)
+
+## 🖥️ Operating System
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📈 My stats on GitHub: 
 
