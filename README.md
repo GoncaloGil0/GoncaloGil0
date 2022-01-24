@@ -43,5 +43,5 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 </br>
 ![My Stats](https://github-readme-stats.vercel.app/api?username=GoncaloGil0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true) 
 
-## 📊 Github Contribution Graph
-![Grafico](https://activity-graph.herokuapp.com/graph?username=GoncaloGil0&bg_color=0D1117&color=3D85C6&line=3D85C6&point=FFFFFF&hide_border=true&)
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/snowwhite-boss"><img src="https://github-profile-trophy.vercel.app/?username=GoncaloGil0&margin-w=5&theme=radical" alt="snowwhite-boss" /></a> </p>
