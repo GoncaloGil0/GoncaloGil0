@@ -38,7 +38,10 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📈 My stats on GitHub: 
-
+![Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoncaloGil0&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGil0&layout=compact&theme=react&langs_count=30&hide_border=true)
 </br>
 ![My Stats](https://github-readme-stats.vercel.app/api?username=GoncaloGil0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true) 
+
+## 📊 Github Contribution Graph
+![Grafico](https://activity-graph.herokuapp.com/graph?username=GoncaloGil0&bg_color=0D1117&color=3D85C6&line=3D85C6&point=FFFFFF&hide_border=true&)
