@@ -38,10 +38,6 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📈 My stats on GitHub: 
-![Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoncaloGil0&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGil0&layout=compact&theme=react&langs_count=30&hide_border=true)
 </br>
 ![My Stats](https://github-readme-stats.vercel.app/api?username=GoncaloGil0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true) 
-
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/snowwhite-boss"><img src="https://github-profile-trophy.vercel.app/?username=GoncaloGil0&margin-w=5&theme=radical" alt="snowwhite-boss" /></a> </p>
