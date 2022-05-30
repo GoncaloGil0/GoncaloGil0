@@ -23,7 +23,7 @@ In addition, I recently took up the position of CEO at [NOTCyberSec](https://not
 </br>
 ## 🌱 I’m currently studying: 
 
-- Docker
+- Containers and K8s
 - Blockchain - NFTs and Smart Contracts
 - Pentesting and Red Team
 
