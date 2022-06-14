@@ -25,7 +25,6 @@ In addition, I recently took up the position of CEO at [NOTCyberSec](https://not
 
 </br>
 
-</br>
 ## 🌱 I’m currently studying: 
 
 - Containers and K8s
