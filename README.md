@@ -14,12 +14,17 @@ Furthermore, I have a great interest in pentesting and red team and developing m
 In addition, I recently took up the position of CEO at [NOTCyberSec](https://notcybersec.com), a company whose main objective is to recreate the process of data creation, treatment and management using blockchain-based technologies.
 
 ## 🤝 Where can you find me:
-<a href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg " alt="Gonçalo Gil | LinkedIn" width="32px"/></a>
+<a href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge"><img align="left" src="https://github.com/GoncaloGil0/GoncaloGil0/blob/74bedac30fa54206a8be7bb98425965d117b134f/img/linkedin(1).png " alt="Gonçalo Gil | LinkedIn" width="32px"/></a>
+
+
+<a href="mailto:goncalogil@notcybersec.com"><img align="left" src="https://github.com/GoncaloGil0/GoncaloGil0/blob/0af126124426f83bcc182afe085a4d13c9d2a5bf/img/email.png" alt="Goncalo Gil | Email" width="32px"/></a>
 
 <a href="https://tryhackme.com/p/SuperAdmin"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/tryhackme.png" alt="Goncalo Gil | TryHackMe" width="32px"/></a>
 
 <a href="https://gitlab.com/GoncaloGil0"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/gitlab.png" alt="Goncalo Gil | GitLab" width="32px"/></a>
+
 </br>
+
 </br>
 ## 🌱 I’m currently studying: 
 
