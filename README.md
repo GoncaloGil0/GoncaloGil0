@@ -24,6 +24,7 @@ In addition, I recently took up the position of CEO at [NOTCyberSec](https://not
 <a href="https://gitlab.com/GoncaloGil0"><img align="left" src="https://raw.githubusercontent.com/GoncaloGil0/GoncaloGil0/main/img/gitlab.png" alt="Goncalo Gil | GitLab" width="35px"/></a>
 
 </br>
+</br>
 
 ## 🌱 I’m currently studying: 
 
