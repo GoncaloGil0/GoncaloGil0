@@ -11,7 +11,7 @@ I am currently studying cybersecurity in university and working on research into
 
 Furthermore, I have a great interest in pentesting and red team and developing my own tools for pentesting and recon, having already participated in some CTF competitions.
 
-In addition, I recently took up the position of CEO at [NOTCyberSec](https://notcybersec.com), a company whose main objective is to recreate the process of data creation, treatment and management using blockchain-based technologies.
+In addition, I recently took up the position of CEO at [ROOTKey (former NOTCyberSec)](https://rootkey.ai), a company whose main objective is to recreate the process of data creation, treatment and management using blockchain-based technologies.
 
 ## 🤝 Where can you find me:
 <a href="https://pt.linkedin.com/in/goncalogil0?trk=profile-badge"><img align="left" src="https://github.com/GoncaloGil0/GoncaloGil0/blob/74bedac30fa54206a8be7bb98425965d117b134f/img/linkedin(1).png " alt="Gonçalo Gil | LinkedIn" width="35px"/></a>
